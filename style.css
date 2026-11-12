@@ -1,0 +1,28 @@
+/* Base & Typography */
+body {
+  font-family: 'Outfit', sans-serif;
+  background-color: #f8fafc;
+}
+
+.font-heading {
+  font-family: 'Fraunces', serif;
+}
+
+/* Custom Palette Rules */
+.brand-orange {
+  background-color: #f97316;
+}
+
+.text-brand-orange {
+  color: #f97316;
+}
+
+/* Transitions & Smooth Scrolling */
+button {
+  transition: all 0.2s ease-in-out;
+}
+
+/* Styling du conteneur QR Code */
+#qrcode-box img {
+  margin: 0 auto;
+}
